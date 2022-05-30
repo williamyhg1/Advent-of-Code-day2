@@ -13,8 +13,6 @@ file.forEach((str) => {
   input.push(str);
 });
 
-console.log(input);
-
 const countMultiply = (command) => {
   let forwardCounts = 0;
   let aimCount = 0;
